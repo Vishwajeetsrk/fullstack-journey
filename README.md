@@ -16,7 +16,7 @@ Simple responsive profile card using HTML, CSS, and JavaScript.
 - Clean UI
 
 ### Preview
-![Preview](assets/profile-card-preview.png)
+![Preview](projects/profile-card/assets/profile-card-preview.png)
 
 ##  What I’m Learning
 
