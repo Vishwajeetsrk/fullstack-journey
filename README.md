@@ -1,4 +1,4 @@
-# FullStack Journey 🚀
+# FullStack Journey 
 
 ##  Who I Am
 
