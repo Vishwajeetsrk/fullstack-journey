@@ -6,6 +6,17 @@ Hi, I’m Vishwajeet.
 I’m a BCA student learning full-stack web development and building real-world projects step by step.
 
 ---
+## Profile Card Project
+
+Simple responsive profile card using HTML, CSS, and JavaScript.
+
+### Features
+- Responsive Design
+- Button Interaction
+- Clean UI
+
+### Preview
+![Preview](assets/profile-card-preview.png)
 
 ##  What I’m Learning
 
